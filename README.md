@@ -4,9 +4,9 @@ Frontend Task for hackerbay interview
 
 2.  Clone this repository and install its dependencies.
 
-        > git clone git://github.com/israeladura/frontend-task.git
+        > git clone git://github.com/israeladura/React-Maze.git
 
-        > cd frontend-task
+        > cd React-Maze
 
         > yarn install
 
