@@ -1,5 +1,3 @@
-Frontend Task for hackerbay interview
-
 ### Installation & Setup
 
 2.  Clone this repository and install its dependencies.
